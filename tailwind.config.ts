@@ -7,7 +7,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        Evandro: '#333'
+        // Evandro: '#333'
       }
     },
   },
